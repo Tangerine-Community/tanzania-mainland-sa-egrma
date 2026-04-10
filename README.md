@@ -6,6 +6,12 @@ Self-Administered EGRA / EGMA Self-Evaluation Tools content set for Tangerine. T
 
 These tools were developed at the request of [Imagine Worldwide](https://www.imagineworldwide.org/) with the support of the [Jacobs Foundation](https://jacobsfoundation.org/). RTI carried out field testing and a pilot study to assess the tools' internal consistency, test-retest reliability, and concurrent validity with respect to "traditional" EGRA and EGMA. The report summarizing these findings is available [here](./research/Tanzania_Kiswahili_SA-EGRMA_Final-Pilot-Report_2025).
 
+# Paper version
+
+In the paper version of the instrument, you will find the English, Swahili, and audio file name. 
+- In general, item prompts and information are marked as auto play, so that the student hears those when they open the section
+- Item prompts, questions, and question options can be replayed by tapping on the respective icon
+- Find the paper version [here](./Digital%20EGRMA%20Instrument_Kiswahili%20Translations_for_Mainland.doc)
 
 # Installation and Use
 
@@ -14,6 +20,10 @@ These tools were developed at the request of [Imagine Worldwide](https://www.ima
 > This content set uses the new radio blocks with images and sounds and the tangy prompt input for sound play.
 > 
 
+
+Please review how to create a content set on our [documentations site](https://docs.tangerinecentral.org/editor/advanced-form-programming/content-sets/#creating-a-new-content-set) If using the git URL to create the set, after ceation, go to your group's app config and add/modify the **uploadToken** , **homeURL**, **goHomeAfterFormSubmit**, **uploadUnlockedFormReponses**, **kioskMode**, **exitClicks** , **columnsOnVisitsTab** 
+Compare with what is set up already in this content set's [client/app-config-default.json](client/app-config-default.json) file.
+Read more on [app-config.json](https://docs.tangerinecentral.org/editor/advanced-form-programming/configuration/#configuration) 
 
 From within the tangerine container execute the `group-create` command
 
