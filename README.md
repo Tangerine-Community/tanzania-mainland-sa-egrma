@@ -4,10 +4,16 @@ Self-Administered EGRA / EGMA Self-Evaluation Tools content set for Tangerine. T
 
 # Analysis of Instruments' Internal Consistency, Reliability, and Consistency
 
-These tools were developed at the request of [Imagine Worldwide](https://www.imagineworldwide.org/) with the support of the [Jacobs Foundation](https://jacobsfoundation.org/). RTI carried out field testing and a pilot study to assess the tools' internal consistency, test-retest reliability, and concurrent validity with respect to "traditional" EGRA and EGMA. The report summarizing these findings is available [here](./research/English_SaEgraSaEgma_GhanaPilot_2022-12-16.pdf).
+These tools were developed at the request of [Imagine Worldwide](https://www.imagineworldwide.org/) with the support of the [Jacobs Foundation](https://jacobsfoundation.org/). RTI carried out field testing and a pilot study to assess the tools' internal consistency, test-retest reliability, and concurrent validity with respect to "traditional" EGRA and EGMA. The report summarizing these findings is available [here](./research/Tanzania_Kiswahili_SA-EGRMA_Final-Pilot-Report_2025).
 
 
 # Installation and Use
+
+> [!WARNING]
+> You must use Tangerine v3.32.2-rc-20 or older
+> This content set uses the new radio blocks with images and sounds and the tangy prompt input for sound play.
+> 
+
 
 From within the tangerine container execute the `group-create` command
 
