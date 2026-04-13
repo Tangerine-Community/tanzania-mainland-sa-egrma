@@ -13,6 +13,13 @@ In the paper version of the instrument, you will find the English, Swahili, and 
 - Item prompts, questions, and question options can be replayed by tapping on the respective icon
 - Find the paper version [here](./Digital%20EGRMA%20Instrument_Kiswahili%20Translations_for_Mainland.doc)
 
+
+# Ppe-built APK
+
+Only for your evaluation of the app we have prebuilt an apk for you to try out the SA assessment. [Download the APK](https://drive.google.com/file/d/12Zr7ye7-f-yg7mw-QIOFAZYPXUUXZBV3/view?usp=drive_link) Make sure to follow the installation instructions and correct setup of the tablet for the best experience.
+ - [Instructions on generic app installation](https://docs.google.com/document/d/1AYwOZKmWr89lcUxN17zxNxtI_SI6Q27D/edit?usp=drive_link&ouid=112152583932758147820&rtpof=true&sd=true) 
+ - [Assessor manual](https://docs.google.com/document/d/13h1IKbNuoTHFQukVl3VNLzA-43N4D9q7/edit?usp=drive_link&ouid=112152583932758147820&rtpof=true&sd=true) - pay attention to page 10 Kiosk Mode - this must be switched in order to get the best app experience. Assessors can exit Kiosk mode by quickly tapping on an empty area of the assessment 8 times.
+
 # Installation and Use
 
 > [!WARNING]
