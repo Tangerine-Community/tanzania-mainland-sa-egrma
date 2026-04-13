@@ -14,7 +14,7 @@ In the paper version of the instrument, you will find the English, Swahili, and 
 - Find the paper version [here](./Digital%20EGRMA%20Instrument_Kiswahili%20Translations_for%20Mainland.doc)
 
 
-# Ppe-built APK
+# Pre-built APK
 
 Only for your evaluation of the app we have prebuilt an apk for you to try out the SA assessment. [Download the APK](https://drive.google.com/file/d/12Zr7ye7-f-yg7mw-QIOFAZYPXUUXZBV3/view?usp=drive_link) Make sure to follow the installation instructions and correct setup of the tablet for the best experience.
  - [Instructions on generic app installation](https://docs.google.com/document/d/1AYwOZKmWr89lcUxN17zxNxtI_SI6Q27D/edit?usp=drive_link&ouid=112152583932758147820&rtpof=true&sd=true) 
