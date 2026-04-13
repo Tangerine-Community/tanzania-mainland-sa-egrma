@@ -11,7 +11,7 @@ These tools were developed at the request of [Imagine Worldwide](https://www.ima
 In the paper version of the instrument, you will find the English, Swahili, and audio file name. 
 - In general, item prompts and information are marked as auto play, so that the student hears those when they open the section
 - Item prompts, questions, and question options can be replayed by tapping on the respective icon
-- Find the paper version [here](./Digital%20EGRMA%20Instrument_Kiswahili%20Translations_for_Mainland.doc)
+- Find the paper version [here](./Digital%20EGRMA%20Instrument_Kiswahili%20Translations_for%20Mainland.doc)
 
 
 # Ppe-built APK
