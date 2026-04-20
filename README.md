@@ -4,7 +4,7 @@ Self-Administered EGRA / EGMA Self-Evaluation Tools content set for Tangerine. T
 
 # Analysis of Instruments' Internal Consistency, Reliability, and Consistency
 
-These tools were developed at the request of [Imagine Worldwide](https://www.imagineworldwide.org/) with the support of the [Jacobs Foundation](https://jacobsfoundation.org/). RTI carried out field testing and a pilot study to assess the tools' internal consistency, test-retest reliability, and concurrent validity with respect to "traditional" EGRA and EGMA. **The report summarizing these findings is available** [here](./research/Digital%20EGRMA%20Instrument_Kiswahili%20Translations_for%20Mainland.doc).
+These tools were developed at the request of [Imagine Worldwide](https://www.imagineworldwide.org/) with the support of the [Jacobs Foundation](https://jacobsfoundation.org/). RTI carried out field testing and a pilot study to assess the tools' internal consistency, test-retest reliability, and concurrent validity with respect to "traditional" EGRA and EGMA. **The report summarizing these findings is available** [here](https://github.com/Tangerine-Community/tanzania-mainland-sa-egrma/blob/main/Digital%20EGRMA%20Instrument_Kiswahili%20Translations_for%20Mainland.doc).
 
 # Paper version
 
